@@ -26,3 +26,6 @@ html{
         width: 90%;
     }
 }
+select{
+    background: transparent;
+}
