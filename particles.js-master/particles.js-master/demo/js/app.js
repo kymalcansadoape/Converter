@@ -35,7 +35,7 @@ particlesJS('particles-js',
           "nb_sides": 6
         },
         "image": {
-          "src": "https://cdn-icons-png.flaticon.com/512/74/74742.png", 
+          "src": "https://imageio.forbes.com/specials-images/imageserve/5c76b7d331358e35dd2773a9/0x0.jpg?format=jpg&crop=4401,4401,x0,y0,safe&height=416&width=416&fit=bounds", 
           "width": 500,
           "height": 500
         }
