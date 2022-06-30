@@ -1,0 +1,28 @@
+html{
+    overflow-x: hidden;
+}
+#result {
+    display: block;
+    color: rgb(145, 145, 145) !important;
+    background-color: white;
+}
+#fromUnits , #toUnits , #result{
+    border: 1px #ced4da solid;
+    border-radius: 0.375rem;
+    padding: 0.375rem 0.75rem !important;
+    font-size: 1rem;
+}
+#particles-js{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+#credits{
+    width: 25%;
+}
+@media(max-width: 600px) {
+    #credits{
+        width: 90%;
+    }
+}
