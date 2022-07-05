@@ -18,14 +18,15 @@ html{
     height: 100%;
     z-index: -1;
 }
-#credits{
+#credits , #by{
     width: 25%;
+
 }
 @media(max-width: 600px) {
-    #credits{
+    #credits , #by{
         width: 90%;
-    }
-}
+    } 
 select{
     background: transparent;
+}
 }
